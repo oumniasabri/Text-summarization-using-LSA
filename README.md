@@ -1,2 +1,2 @@
-# Text-summerization-using-LSA
+# Text-summarization-using-LSA
 Summerize documents using LSA, svd, TfidfVectorizer.
