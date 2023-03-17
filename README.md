@@ -1,2 +1,2 @@
 # Text-summarization-using-LSA
-Summerize documents using LSA, svd, TfidfVectorizer.
+Summarize documents using LSA, svd, TfidfVectorizer.
